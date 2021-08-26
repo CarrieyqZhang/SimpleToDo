@@ -5,7 +5,6 @@
 
 ## User Stories
 
-The following **required** functionality is completed:
 
 * [x] User can **view a list of todo items**
 * [x] User can **successfully add and remove items** from the todo list
